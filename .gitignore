@@ -1,0 +1,10 @@
+# Secretos: NUNCA subir
+.env
+
+# Entorno virtual de Python
+venv/
+.venv/
+
+# Archivos generados por Python
+__pycache__/
+*.pyc
